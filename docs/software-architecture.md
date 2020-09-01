@@ -4,7 +4,7 @@ title: Software-Architecture
 nav_order: 2
 ---
 
-# Software-architecture
+# Software-Architecture
 {: .no_toc }
 
 
