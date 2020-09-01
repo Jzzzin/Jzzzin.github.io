@@ -57,7 +57,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Jzzzin on GitHub":
-    - "//github.com/Jzzzin/Jzzzin.github.io"
+    - "//github.com/Jzzzin"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
