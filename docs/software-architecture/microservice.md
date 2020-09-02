@@ -24,7 +24,7 @@ nav_order: 2
 - HTTP, JSON 같은 경량 통신 Protocol 을 사용하므로, 각 Component 는 다양한 언어와 기술로 구축 가능
 
 
-**작고(small) 단순하며(simple) 분리된(decoupled) 서비스**
+**>>> 작고(small) 단순하며(simple) 분리된(decoupled) 서비스**
 {: .no_toc .text-gamma }
 
 
@@ -37,7 +37,7 @@ nav_order: 2
 - 확장성(scalable) : 수평적 분산 가능. 작은 서비스를 확장하는 것은 국지적이며 비용 효율이 높음
 
 
-**확장 가능하고(scalable) 회복적이며(resilient) 유연한(flexible) 애플리케이션**
+**>>> 확장 가능하고(scalable) 회복적이며(resilient) 유연한(flexible) 애플리케이션**
 {: .no_toc .text-gamma }
 
 
