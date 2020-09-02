@@ -9,7 +9,7 @@ permalink: /
 # Jzzzin Document For Dev
 {: .fs-9 }
 
-[View it on GitHub](https://github.com/Jzzzin/Jzzzin.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View it on GitHub](https://github.com/Jzzzin/Jzzzin.github.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
