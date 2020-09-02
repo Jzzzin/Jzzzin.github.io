@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Monolithic Vs Micro Service
-parent: Software Architecture
-nav_order: 2
+parent: Software Architecture Index
+nav_order: 3
 ---
 
 # Monolithic Vs Micro Service
