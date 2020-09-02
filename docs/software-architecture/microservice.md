@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Micro Service
-parent: Software Architecture Index
+parent: Software Architecture
 nav_order: 2
 ---
 

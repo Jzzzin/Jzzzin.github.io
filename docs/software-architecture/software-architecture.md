@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software Architecture
-parent: Software Architecture Index
+parent: Software Architecture
 nav_order: 1
 ---
 
