@@ -63,7 +63,7 @@ nav_order: 3
 - 서비스마다 자체 DB 를 소유
 
 
-**경계 컨텍스트 bounded context 가 있는, 느슨하게 결합된 엘리먼트 element 로 구성된 서비스 지향 아키텍처 Service Oriented Architecture**
+**> 경계 컨텍스트 bounded context 가 있는, 느슨하게 결합된 엘리먼트 element 로 구성된 서비스 지향 아키텍처 Service Oriented Architecture**
 {: .no_toc .text-gamma }
 
 
