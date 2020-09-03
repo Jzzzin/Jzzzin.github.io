@@ -1,12 +1,12 @@
 ---
 layout: default
-title: API Pattern
+title: API Gateway
 parent: Inter Process Communication
 grand_parent: Micro Service Architecture Pattern
 nav_order: 2
 ---
 
-# API Pattern
+# API Gateway
 {: .no_toc }
 
 
@@ -128,7 +128,7 @@ nav_order: 2
   - CPU 집약적 로직(ex. 복호화, 압축)을 수행하는 API 게이트웨이는 NIO 사용으로 인한 개선효과가 없음
 
 
-### **리액티브 프로그래밍 추상체 이용 **
+### **리액티브 프로그래밍 추상체 이용**
 - API 조합 처리 시 응답 시간을 줄이려면 가능한 한 동시에 서비스를 호출하는 동시성 코드를 작성해야 한다
 - 동시성 코드를 비동기 콜백 방식으로 작성하면 콜백 지옥 callback hell 에 빠지기 쉽기 때문에 코드가 뒤얽혀 알아보기 힘들고 에러가 나기 쉽다
 - API 조합 코드는 자바 8 CompletableFutures, 리액터 프로젝트 Mono, RxJava의 옵저버블 observable 같은 JVM 용 리액티브 추상체나 Node.js 의 프라미스 promise 를 활용하여 리액티브한 선언형 스타일로 작성해야 한다
