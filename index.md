@@ -18,5 +18,6 @@ permalink: /
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 - [See ui-components options]({{ site.baseurl }}{% link docs/ui-components/ui-components.md %})
 - [See utilities options]({{ site.baseurl }}{% link docs/utilities/utilities.md %})
+- [See index-header options]({{ site.baseurl }}{% link docs/index-test.md %})
 
 ---
